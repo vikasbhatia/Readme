@@ -46,7 +46,7 @@ Text here.
 
 To upload screenshots directly to GitHub, go to any repo's create an issue page and drag and drop the image into the text box (you don't need to submit the issue). A link will be generated in the box that you can copy-paste.
 
-This readme was written in [MacDown](http://macdown.uranusjr.com) ([GitHub](https://github.com/MacDownApp/macdown)) a markdown editor for macOS which which has handy live previews, including images.
+This readme was written in [MacDown](http://macdown.uranusjr.com) ([GitHub](https://github.com/MacDownApp/macdown)) a markdown editor for macOS which has handy live previews, including images.
 
 <p align="center">
 <img width="450" alt="Screenshot" src="https://user-images.githubusercontent.com/11446387/38554609-d92f9f96-3ce0-11e8-90cf-18026e3f4fd9.png">
